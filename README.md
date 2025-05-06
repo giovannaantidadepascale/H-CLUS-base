@@ -1,1 +1,1 @@
-# H-CLUS-base
+# Versione base del progetto client-server HCLUS
